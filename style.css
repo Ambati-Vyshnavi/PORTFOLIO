@@ -1,0 +1,22 @@
+h1{
+    color:blueviolet
+}
+H2{
+    color: brown;
+}
+p{
+    color:black;
+    
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+.box1{
+    padding-left:30px;
+}
+.box2{
+    padding: 20px;
+}
